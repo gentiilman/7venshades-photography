@@ -1,0 +1,192 @@
+ /*BODY*/
+ body{
+ 	background-color:white;
+ }
+
+ 
+ hr{
+ 	width:0;
+ 	color: 0;
+ }
+  #top{
+	text-align: center;
+	font:;
+	color:rgb(200,50,35);
+}
+#top 
+h1{
+	display: block;
+	text-align: center;
+	letter-spacing: 0.3em;
+	line-height: normal;
+	font: normal normal normal 32px/1.4em 'playfair display' ,serif;
+	word-wrap: break-word;
+}
+h2{
+	text-align: center;
+	letter-spacing: 0.7em;
+	line-height: normal;
+	font: normal normal normal 14px/1.4em brandon-grot-w01-light,sans-serif;
+	word-wrap: break-word;
+}
+#menu{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+}
+#navbar{
+	width: 1200px;
+	height: 10px;
+	border: 0;
+}
+#navbar ul{
+	float: center;
+}
+ul a{
+	display: horizontal;
+	color: grey;
+	text-align: center;
+	font-size: 18px;
+	padding: 62px 64px;
+	text-decoration: none;
+}
+.main{
+	background-color: white;
+	padding-top: 50px;
+	padding-left: 11px;
+
+}
+.main 
+iframe{
+	border-width: 0;
+	border-spacing: 30px;
+	margin: 2px;
+	color: white;
+	width: 320px;
+	height: 330px;
+}
+.Bio{
+	background-color: white;
+	padding-top: 50px;
+}
+.Bio img{
+	border-width: 2px;
+	border-spacing: 30px;
+	margin: 2px;
+	color: white;
+	width: 946px;
+	height: 446px;
+}
+h3{
+	text-align: center;
+	line-height: 1.5em;
+	letter-spacing: normal;
+	font: normal normal normal 28px/1.4em didot-italic,serif;
+	color: #292929;	
+}
+h4{
+	text-align: center;
+	line-height: 1.5em;
+	letter-spacing: normal;
+	font: normal normal normal 28px/1.4em didot-italic,serif;
+	color: #292929;
+}	
+p{
+	text-align: center;
+	line-height: 1.5em;
+	letter-spacing: normal;
+	font: normal normal normal 17px/1.4em brandon-grot-w01-light,sans-serif;
+	color: #605E5E;
+}
+form{ 
+}
+input{
+	padding: 10px;
+}
+input[type="text"]{
+	width: 16.5%;
+}	
+input[type="Email"]{
+	width: 16.5%;
+}	
+input[type="Subject"]{
+	width: 35%;
+}	
+input[type="Address"]{
+	width: 35%;
+}
+button[type="Submit"]{
+	width: 494px;
+	height: 45px;
+	border: none;
+	cursor: pointer;
+	background: black;
+	color: white;
+}
+h5,h6{
+	text-align: center;
+	line-height: normal;
+	letter-spacing: normal;
+	font: normal normal normal 28px/1.4em didot-italic,serif;
+	font-style: normal;
+	font-variant-ligatures: normal;
+	font-variant-caps: normal;
+	font-variant-numeric: normal;
+	font-weight: normal;
+	font-stretch: normal;
+	font-size: 28px;
+	font-family: didot-italic,serif
+	color: #292929;
+}	
+.Family{
+	background-color: white;
+	padding-top: 15px;	
+}
+.Family 
+iframe{
+	border-width: 0;
+	border-spacing: 30px;
+	margin: 2px;
+	color: white;
+	width: 946px;
+	height: 625px;	
+}
+img{
+	border-width: 2px;
+	border-spacing: 30px;
+	margin: 2px;
+	color: white;
+	width: 473px;
+	height: 312.5px;	
+}
+.BookaSession{
+	background-color: white;
+	padding-top: 15px;
+}
+.BookaSession 
+iframe{
+border-width: 0;
+border-spacing: 30px;
+margin: 2px;
+color: white;
+width: 310px;
+height: 260px;
+}
+div{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	vertical-align: baseline;
+	background: transparent;
+	display: block;
+}
+/*TEXT*/
+h1{
+	color: black;
+}
+h2{
+	color: grey;
+}
